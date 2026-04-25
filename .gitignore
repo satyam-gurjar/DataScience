@@ -5,3 +5,14 @@ __pycache__
 *.pyc
 *.pyo
 *.pyd   
+
+.env
+.env.*.local
+.local
+.idea
+.vscode 
+
+.DS_Store
+*.log
+*.bak
+*.tmp       

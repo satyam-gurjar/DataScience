@@ -1,0 +1,25 @@
+# Core LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+
+# LangGraph (main framework)
+langgraph
+
+# LLM integrations
+langchain-openai
+langchain-google-genai
+langchain-groq
+langchain-mistralai
+
+# Utilities
+python-dotenv
+requests
+tiktoken
+
+# Vector store (optional but useful)
+faiss-cpu
+
+# API / Backend (if you're building apps)
+fastapi
+uvicorn
